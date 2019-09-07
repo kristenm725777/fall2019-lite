@@ -17,8 +17,10 @@ We will meet twice a week:
 
 Week 1. **Intro to Coding**  
   * Objectives: 
-    *Understand what computer science, software engineering, and web development is all about. 
-    *Introduce Javascript data types, operators, and functions. 
+    * Understand what computer science, software engineering, and web development is all about. 
+    * Introduce Javascript data types, operators, and functions. 
+    * Slide: https://docs.google.com/presentation/d/15qEVbfi7_SDkN6HLc-SGOIbmm1lSsOhNNJ88kutPxwE/edit?usp=sharing
+
 
  
  
