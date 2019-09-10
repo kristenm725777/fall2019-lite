@@ -20,6 +20,8 @@ We will meet twice a week:
     * Understand what computer science, software engineering, and web development is all about. 
     * Introduce Javascript data types, operators, and functions. 
     * Slides: https://docs.google.com/presentation/d/15qEVbfi7_SDkN6HLc-SGOIbmm1lSsOhNNJ88kutPxwE/edit?usp=sharing
+    * Project: https://docs.google.com/document/d/1P8TE_KksJFE_UnWBGRoMjpKzTdcCi7YpymosWzRaMWw/edit
+    
 
 
  
