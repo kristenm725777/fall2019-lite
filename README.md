@@ -27,6 +27,16 @@ We will meet twice a week:
     * How to write pseudocode: https://www.unf.edu/~broggio/cop2221/2221pseu.htm
     * Web Development Roadmap https://codeburst.io/how-i-started-in-web-development-8f61da839e92
     
+**Week 2. Add Programming Skills**  
+  * Objectives: 
+    * Understand how conditional expressions and arrays work.
+    * Write functional code that uses variables, operators, functions, and conditional expressions with clean syntax.
+    * Slides: https://docs.google.com/presentation/d/1PczeZ17hcUxn4CpJ_tK-P9LQyHZu1fMLG_R9fYjgSNI/edit#slide=id.g5f1b59d4be_0_469
+    * Project: https://docs.google.com/document/d/10opYUjVoMDuuZVHQVj8uUHgDZFnjyntkjhxioqWyDGM/edit?usp=sharing
+  * Additional resources:
+    * More on conditional statements: https://www.codecademy.com/articles/fwd-js-conditional-statements
+    * Practice control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow
+    
 
 
  
