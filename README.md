@@ -21,6 +21,21 @@ We will meet twice a week:
     * Introduce Javascript data types, operators, and functions. 
     * Slides: https://docs.google.com/presentation/d/15qEVbfi7_SDkN6HLc-SGOIbmm1lSsOhNNJ88kutPxwE/edit?usp=sharing
     * Project: https://docs.google.com/document/d/1P8TE_KksJFE_UnWBGRoMjpKzTdcCi7YpymosWzRaMWw/edit
+  * Additional resources:
+    * Codecademy, a FREE online programming tutorial service. If you want more practice understanding the concepts taught this week and implementing them, try sections 1 and 3. If you want to get a jump start on material we will cover next week, check out section 2 as well. https://www.codecademy.com/learn/introduction-to-javascript
+    * Crash Course Computer Science, Programming Basics: Statements & Functions https://www.youtube.com/watch?v=l26oaHV7D40 . Some material, specificially conditional statements and loops, mentioned in this video will be addressed in the next 2 weeks. This video covers both what we learned this week and what we will soon learn, so it will refresh your memory on some concepts and introduce you to others. Feel free to skip anything mentioning conditionals or for loops if it confuses you right now. In general, this video should help familiarize you with these basic programming concepts.
+    * How to write pseudocode: https://www.unf.edu/~broggio/cop2221/2221pseu.htm
+    * Web Development Roadmap https://codeburst.io/how-i-started-in-web-development-8f61da839e92
+    
+**Week 2. Add Programming Skills**  
+  * Objectives: 
+    * Understand how conditional expressions and arrays work.
+    * Write functional code that uses variables, operators, functions, and conditional expressions with clean syntax.
+    * Slides: https://docs.google.com/presentation/d/1PczeZ17hcUxn4CpJ_tK-P9LQyHZu1fMLG_R9fYjgSNI/edit#slide=id.g5f1b59d4be_0_469
+    * Project: https://docs.google.com/document/d/10opYUjVoMDuuZVHQVj8uUHgDZFnjyntkjhxioqWyDGM/edit?usp=sharing
+  * Additional resources:
+    * More on conditional statements: https://www.codecademy.com/articles/fwd-js-conditional-statements
+    * Practice control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow
     
 
 
