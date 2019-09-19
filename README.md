@@ -43,7 +43,6 @@ We will meet twice a week:
     * Write functional code that uses variables, arrays, operators, functions, and conditional expressions with clean syntax.
     * Slides: https://docs.google.com/presentation/d/1VzbZKcw16d757PHoIsqBTszuOZ_gxA-PJDkH5mirC-s/edit?usp=sharing
     * Project: https://www.codecademy.com/learn/introduction-to-javascript
-  * Additional resources:
   * More coding Challenges: https://edabit.com/challenges
     
 
