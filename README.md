@@ -37,6 +37,15 @@ We will meet twice a week:
     * More on conditional statements: https://www.codecademy.com/articles/fwd-js-conditional-statements
     * Practice control flow: https://www.codecademy.com/courses/introduction-to-javascript/lessons/control-flow
     
+**Week 3. Practice! Practice!! Practice!!!**  
+  * Objectives: 
+    * Familiarize yourself with coding syntax and logic. Get through ATLEAST 5 levels from the slides.
+    * Write functional code that uses variables, arrays, operators, functions, and conditional expressions with clean syntax.
+    * Slides: https://docs.google.com/presentation/d/1VzbZKcw16d757PHoIsqBTszuOZ_gxA-PJDkH5mirC-s/edit?usp=sharing
+    * Project: https://www.codecademy.com/learn/introduction-to-javascript
+  * Additional resources:
+  * More coding Challenges: https://edabit.com/challenges
+    
 
 
  
