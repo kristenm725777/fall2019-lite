@@ -41,8 +41,10 @@ We will meet twice a week:
   * Objectives: 
     * Familiarize yourself with coding syntax and logic. Get through ATLEAST 5 levels from the slides.
     * Write functional code that uses variables, arrays, operators, functions, and conditional expressions with clean syntax.
-    * Slides: https://docs.google.com/presentation/d/1VzbZKcw16d757PHoIsqBTszuOZ_gxA-PJDkH5mirC-s/edit?usp=sharing
-    * Project: https://www.codecademy.com/learn/introduction-to-javascript
+  * Slides: https://docs.google.com/presentation/d/1VzbZKcw16d757PHoIsqBTszuOZ_gxA-PJDkH5mirC-s/edit?usp=sharing
+  * Project: https://www.codecademy.com/learn/introduction-to-javascript
+    * Complete Sections 1-5 (Intro-Arrays)
+    * Look at Section 6 for next class
   * More coding Challenges: https://edabit.com/challenges
     
 
