@@ -45,6 +45,7 @@ We will meet twice a week:
   * Project: https://www.codecademy.com/learn/introduction-to-javascript
     * Complete Sections 1-5 (Intro-Arrays)
     * Look at Section 6 for next class
+    * Submission: https://docs.google.com/forms/d/e/1FAIpQLSfTtrC-omUGu7HBgQfWioNMnaCZ3-4gtUdWeM6T8DPoDt10eg/viewform?usp=sf_link
   * More coding Challenges: https://edabit.com/challenges
     
 
