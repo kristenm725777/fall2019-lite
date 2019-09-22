@@ -20,5 +20,5 @@ console.log(8);
 //Part 2:
 //Declare a variable:
 let message;
-console.log(message);
+console.log(message); // should return undefined!
 
