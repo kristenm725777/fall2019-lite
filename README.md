@@ -8,7 +8,10 @@ We will meet twice a week:
 * Lecture: Sundays 3:00-4:45pm in #9, Richardson
   * Introduce concepts
   * Apply concepts to assignments and projects
-* Check ins: To be determined
+* Check ins: 
+  * Where? In #9, Launchpad
+  * When? Tuesday 5:15 - 6:15pm, Wednesday 2:15 - 3:15pm, Friday 2:30 - 3:30pm
+  * Must attend at least 1 per week
   * Reinforce skills and build projects
   * Check up on progress
   * Ask questions
