@@ -51,6 +51,13 @@ We will meet twice a week:
     * Submission: https://docs.google.com/forms/d/e/1FAIpQLSfTtrC-omUGu7HBgQfWioNMnaCZ3-4gtUdWeM6T8DPoDt10eg/viewform?usp=sf_link
   * More coding Challenges: https://edabit.com/challenges
     
+ **Week 4. Introduction to Web Apps**  
+  * Objectives: 
+    * Understand CSS and HTML
+    * Build a functioning web app using styling and javascript.
+  * **Slides**: https://docs.google.com/presentation/d/1ARc01ULaWyLCQQm9VTdXPb6ndUfQ3fSRN28K_YTc5J4/edit?usp=sharing
+  * **Project**: https://docs.google.com/document/d/1Ei76vKVdb8zZgeDeSfRE1IGpmOytBUFEwTNupAQsF9E/edit?usp=sharing
+    * Submission: https://docs.google.com/forms/d/e/1FAIpQLSfaCz8a7C26zsP2JOmtSn2sszh8_GugmraKBfQ4fko-g5bhOw/viewform?usp=sf_link
 
 
  
