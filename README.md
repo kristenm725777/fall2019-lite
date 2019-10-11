@@ -54,10 +54,21 @@ We will meet twice a week:
  **Week 4. Introduction to Web Apps**  
   * Objectives: 
     * Understand CSS and HTML
-    * Build a functioning web app using styling and javascript.
+    * Build a static web page using HTML and CSS.
   * **Slides**: https://docs.google.com/presentation/d/1ARc01ULaWyLCQQm9VTdXPb6ndUfQ3fSRN28K_YTc5J4/edit?usp=sharing
   * **Project**: https://docs.google.com/document/d/1Ei76vKVdb8zZgeDeSfRE1IGpmOytBUFEwTNupAQsF9E/edit?usp=sharing
     * Submission: https://docs.google.com/forms/d/e/1FAIpQLSfaCz8a7C26zsP2JOmtSn2sszh8_GugmraKBfQ4fko-g5bhOw/viewform?usp=sf_link
+    
+ **Week 5. JavaScript with HTML and CSS**  
+  * Objectives: 
+    * Understand Class, Ids, HTML, CSS, and the DOM.
+    * Use JavaScript within your HTML file
+    * Code and run your application using Visual Studio code.
+  * **Slides**: https://docs.google.com/presentation/d/13Up453AhmlOuI0RKYcGr3e5jgDXH1b8-0tijhd3j86Y/edit?usp=sharing
+  * **Project**: https://docs.google.com/document/d/1a57OBHp1CxVP-WDIAEGXI_xzjZDPurN2NUGDmMi6tcY/edit?usp=sharing
+    * Submission: https://docs.google.com/forms/d/e/1FAIpQLSeMeNQUfSJKIsb5ca506NNp7viwj7W_F9M0xWRrin1HC9zJcA/viewform?usp=sf_link
+  * Additional resources: 
+    * More on DOM element methods, properties, and events: https://developer.mozilla.org/en-US/docs/Web/API/Element
 
 
  
