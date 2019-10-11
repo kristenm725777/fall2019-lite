@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap');
+
+body {
+    font-family: 'Big Shoulders Display', cursive;
+    background-color: #455391;
+}
+
+#title {
+    font-size: 50px;
+    color: white;
+}
