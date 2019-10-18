@@ -1,0 +1,52 @@
+// PROJECT 2: Tip Calculator!
+
+let billTotalInput = prompt("Enter the total cost of the bill: ");
+let qualityOfServiceInput = prompt("Rank the quality of the service on scale of 1-3: ")
+let numberOfPeopleInput = prompt("How many people are splitting the bill?: ")
+
+/*
+Here we will declare our function. It has 3 parameters. One represents the total bill cost. The next represents the quality of service
+the waiter or waitress provided. The final parameter represents the number of people who are splitting the bill.
+
+While the parameter names are similar to those of the variables we just created, note that they are NOT the same.
+Parameters are different from variables. Like variables, parameters can be named whatever you choose. It is helpful to call them something
+that represents the kind of value you intend to pass to the function. This increased readability is useful to us and others when 
+looking back at the code we have written.
+
+To clarify the difference in parameters and variables:
+Parameters - placeholders for values you will pass to the function at the time you call it. You can pass either actual values or variables to functions.
+
+Variables - a name we define that holds a specific value
+
+*/
+
+function tipCalculator(billTotal, qualityOfService, numberOfPeople){
+  /* This is initializing a variable for percentage, but not declaring a value. It really does not need a default value here, because
+  the following conditional statements will run and when one of them is true or the else statement runs, the value for percentage
+  will be set. The purpose of our percentage variable is that it will be determined by the quality of service provided and then
+  used in our tip calculation. */
+  
+  let percentage;   
+
+  // What percentage of the total bill cost individuals in the group pay as a tip is dependent on the service quality
+  if (qualityOfService === 1){
+    percentage = .15         // Here we are declaring a value for percentage. Notice we do not need to use the keyword "let" when only assigning the value.
+  }
+  else if (qualityOfService === 2){
+    percentage = .20
+  }
+  else {      // this statement means if qualityOfService is not 1 or 2, it must be 3, and we should tip the waiter/waitress more!
+    percentage = .25
+  }
+
+  /* The tip is the percentage times the total bill for the meal, divided evenly amongst the group.
+    We use parentheses to ensure order of operations are followed.
+  */
+  return (billTotal*percentage)/numberOfPeople     
+}
+
+/* Now it's time to call our function, printing the output to the console. Notice how we pass the variables we created at the beginning
+of the file as our arguments. Doing this means our function will be applied to the values inputted by our user when the program runs.
+*/
+
+console.log(tipCalculator(billTotalInput, qualityOfServiceInput, numberOfPeopleInput));
