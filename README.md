@@ -70,7 +70,17 @@ We will meet twice a week:
   * Additional resources: 
     * More on DOM element methods, properties, and events: https://developer.mozilla.org/en-US/docs/Web/API/Element
 
-
+ **Week 6. For Loops and Terminal**  
+  * Objectives: 
+    * Understand why and how to write for loops.
+    * Understand terminal commands.
+    * Incorporate for loops within your HTML file
+    * Run your code using Node
+  * **Slides**: https://docs.google.com/presentation/d/1jPHFR5MQbtePFrO5_kpHhYtk0rMW5BdmwL1RkazSqbQ/edit?usp=sharing
+  * **Project**: https://docs.google.com/document/d/1ksfi9lGyvawi0cEOMM8F7XhKy97XwkU2-quV8oDhDyc/edit?usp=sharing
+    * Submission: https://docs.google.com/forms/d/e/1FAIpQLSeb_Lxsd79Wf_FoDmFb5ywm7RnlAE8C7kWAx2DUL72gzmXElg/viewform?usp=sf_link
+  * Additional resources: 
+    * More on DOM element methods, properties, and events: https://developer.mozilla.org/en-US/docs/Web/API/Element
  
  
  
