@@ -69,6 +69,9 @@ We will meet twice a week:
     * Submission: https://docs.google.com/forms/d/e/1FAIpQLSeMeNQUfSJKIsb5ca506NNp7viwj7W_F9M0xWRrin1HC9zJcA/viewform?usp=sf_link
   * Additional resources: 
     * More on DOM element methods, properties, and events: https://developer.mozilla.org/en-US/docs/Web/API/Element
+    * Flexbox Froggy tutorial game - familiarize yourself with flexbox! https://flexboxfroggy.com/
+     *we use flexbox primarily for positioning our div elements! It is super useful for organizing the elements on our webpage.
+    * More information on flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
  **Week 6. For Loops and Terminal**  
   * Objectives: 
